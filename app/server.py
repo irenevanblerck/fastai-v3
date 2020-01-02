@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1dMbtG4Qs4HNvp-tL2-tNSPmHdNj1yI6K'
+export_file_url = 'https://drive.google.com/uc?export=download&id=14XeDE1svj6XpQ7aGZbD8ThqUxYl_fs64'
 export_file_name = 'export.pkl'
 
 classes = ['Black-grass','Charlock','Cleavers','Common Chickweed','Common wheat','Fat Hen','Loose Silky-bent','Maize','Scentless Mayweed','Shepherds Purse','Small-flowered Cranesbill','Sugar beet']
